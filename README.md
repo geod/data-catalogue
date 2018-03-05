@@ -14,6 +14,7 @@ List of data catalogues
 | [AWS Glue](https://aws.amazon.com/documentation/glue/) |  |
 | [Open Data Catalogue](https://github.com/azavea/Open-Data-Catalog) | OpenPhilly |
 | [CKAN](https://github.com/ckan/ckan) |  |
+| [Collibra](https://www.collibra.com/data-governance-solutions/data-catalog/) |  |
 
 
 
