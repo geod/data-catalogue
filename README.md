@@ -6,6 +6,7 @@ List of data catalogues
 
 | Name | Notes |
 | ------- | ------- |
+| [Alation](https://alation.com/) | |
 | [Stardog](https://www.stardog.com/) |  |
 | [Waterline](https://www.waterlinedata.com/product-overview/) |  |
 | [WheresHow](https://github.com/linkedin/WhereHows) | Linkedin |
